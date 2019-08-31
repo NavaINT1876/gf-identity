@@ -1,11 +1,12 @@
 <?php
 
-namespace app\components;
+namespace NavaInt1876;
 
 use Lcobucci\JWT\Token;
 use Yii;
 use yii\base\Component;
 use yii\web\UnauthorizedHttpException;
+use NavaInt1876\User;
 
 class Identity extends Component
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace app\components;
+namespace NavaInt1876;
 
 class User
 {

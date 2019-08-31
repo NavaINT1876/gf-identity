@@ -1,6 +1,6 @@
 <?php
 
-namespace app\modules\v1\services;
+namespace NavaInt1876;
 
 use Yii;
 use yii\base\InvalidCallException;

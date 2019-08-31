@@ -1,6 +1,6 @@
 <?php
 
-namespace NavaInt1876;
+namespace NavaINT1876;
 
 class User
 {

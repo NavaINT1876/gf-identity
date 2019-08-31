@@ -1,0 +1,14 @@
+{
+    "name": "gadful/gf-identity",
+    "type": "library",
+    "authors": [
+        {
+            "name": "NavaINT1876",
+            "email": "igor.kucherenko@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.1.0"
+    }
+}

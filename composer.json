@@ -11,5 +11,10 @@
         "php": "^7.1.0",
         "lcobucci/jwt": "^3.2.5"
     },
-    "license": "mit"
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "NavaINT1876\\GfIdentity\\": "src/"
+        }
+    }
 }

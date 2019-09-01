@@ -1,12 +1,12 @@
 <?php
 
-namespace NavaINT1876;
+namespace NavaINT1876\GfIdentity;
 
 use Lcobucci\JWT\Token;
 use Yii;
 use yii\base\Component;
 use yii\web\UnauthorizedHttpException;
-use NavaINT1876\User;
+use NavaINT1876\GfIdentity\User;
 
 class Identity extends Component
 {

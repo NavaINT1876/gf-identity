@@ -1,6 +1,6 @@
 <?php
 
-namespace NavaINT1876;
+namespace NavaINT1876\GfIdentity;
 
 class User
 {

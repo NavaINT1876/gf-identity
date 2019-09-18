@@ -2,6 +2,13 @@
 
 namespace NavaINT1876\GfIdentity;
 
+/**
+ * Class User
+ *
+ * Class represents user data retrieved from JWT token
+ *
+ * @package NavaINT1876\GfIdentity
+ */
 class User
 {
     /** @var int */

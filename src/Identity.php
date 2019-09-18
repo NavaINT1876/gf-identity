@@ -11,6 +11,8 @@ use NavaINT1876\GfIdentity\User;
 class Identity extends Component
 {
     /**
+     * Retrieve NavaINT1876\GfIdentity\User instance from JWT token.
+     *
      * @return User
      * @throws UnauthorizedHttpException
      */
